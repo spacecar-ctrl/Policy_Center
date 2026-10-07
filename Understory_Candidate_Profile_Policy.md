@@ -1,5 +1,4 @@
 # Understory Candidate Profile Policy
-# Understory AI Policy
 
 **Effective Date:** September 8, 2026
 **Last Updated:** September 8, 2026
