@@ -1,9 +1,8 @@
 # Understory Candidate Profile Policy
+# Understory AI Policy
 
-**Status:** Policy  
-**Applies to:** Candidate Profile and all Understory features that use candidate information  
-**Product:** Understory  
-**Related policies:** AI Policy, Privacy Policy, Security Requirements, User Agreement
+**Effective Date:** September 8, 2026
+**Last Updated:** September 8, 2026
 
 ---
 
