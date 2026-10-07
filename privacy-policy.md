@@ -536,7 +536,7 @@ Users should review the applicable third-party portal's current Terms of Service
 
 Privacy questions, requests, and complaints should be submitted through:
 
-**Privacy Contact:** getspacecar@gmail.com
+**Contact:** getspacecar@gmail.com
 **Company/Legal Entity:** getspacecar@gmail.com
 
 ### Legal Terms
